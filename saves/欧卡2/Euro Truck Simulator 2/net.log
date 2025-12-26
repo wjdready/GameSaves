@@ -1,0 +1,12 @@
+23.12.2025 15:31:47  LOG INFO: Started
+23.12.2025 16:02:43  LOG INFO: Stopped
+24.12.2025 11:30:44  LOG INFO: Started
+24.12.2025 11:30:45 SOCK ERRO: getaddinfo('lscreens.eut2.online.scssoft.com','80') ver 0 type 1 proto 6 failed 0x00002af9
+24.12.2025 11:30:45 HTTP ERRO: Unable to connect to 'http://lscreens.eut2.online.scssoft.com/eut2/lscr/data'
+24.12.2025 11:30:45 LINK ERRO: Unable to connect.
+24.12.2025 11:30:45 SOCK ERRO: getaddinfo('mrk-lscreens.eut2.online.scssoft.com','80') ver 0 type 1 proto 6 failed 0x00002af9
+24.12.2025 11:30:45 HTTP ERRO: Unable to connect to 'http://mrk-lscreens.eut2.online.scssoft.com/eut2/mrk_lscr/data'
+24.12.2025 11:30:45 LINK ERRO: Unable to connect.
+24.12.2025 15:59:46  LOG INFO: Stopped
+25.12.2025 12:34:59  LOG INFO: Started
+25.12.2025 13:14:24  LOG INFO: Stopped

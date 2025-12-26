@@ -1,0 +1,21 @@
+SiiNunit
+{
+global_input_config : _nameless.190.a1c2.80c0 {
+ version: 1
+ ui_whitelisted: 0
+ ui_blacklisted: 0
+ display_names: 11
+ display_names[0]: "`sys.keyboard`|@@keyboard@@"
+ display_names[1]: "`sys.mouse`|@@i_mouse@@"
+ display_names[2]: "`di8.keyboard`|@@keyboard@@"
+ display_names[3]: "`di8.mouse`|@@i_mouse@@"
+ display_names[4]: "`di8.'{CD1FFCD0-DF87-11F0-8001-444553540000}|{028E045E-0000-0000-0000-504944564944}'`|Controller (8BitDo Pro 2)"
+ display_names[5]: "`xinput.xinput_gamepad_1`|@@xinput_gamepad@@ 1"
+ display_names[6]: "`dialogs.keyboard`|@@keyboard@@"
+ display_names[7]: "`dialogs.mouse`|@@i_mouse@@"
+ display_names[8]: "`fusion.mouse`|@@i_mouse@@"
+ display_names[9]: "`di8.'{BBE50250-E101-11F0-8001-444553540000}|{02FF045E-0000-0000-0000-504944564944}'`|Controller (Xbox One For Windows)"
+ display_names[10]: "`di8.'{3C682CC0-E1D1-11F0-8037-444553540000}|{02FF045E-0000-0000-0000-504944564944}'`|Controller (Xbox One For Windows)"
+}
+
+}

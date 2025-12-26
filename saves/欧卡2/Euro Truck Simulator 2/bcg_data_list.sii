@@ -1,0 +1,12 @@
+SiiNunit
+{
+bcg_notification_data : _nameless.194.7bf3.29a0 {
+ bcg_configs: 4
+ bcg_configs[0]: "config.dark_studio"
+ bcg_configs[1]: "config.night_city"
+ bcg_configs[2]: config
+ bcg_configs[3]: "config.waves"
+ new_bcg_configs: 0
+}
+
+}
